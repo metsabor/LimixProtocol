@@ -1,0 +1,12 @@
+# build output
+*.exe
+*.pdb
+# engine files are not part of the repository (add them manually, mind their licenses)
+bin/
+# user data created by the app
+lists/
+limix.cfg
+limix-*.txt
+# OS
+Thumbs.db
+desktop.ini
